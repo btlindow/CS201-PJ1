@@ -1,8 +1,6 @@
 # CS201-PJ1
 
 /*
-*   DRIVER C FILE FOR CALCULON BY BEN LINDOW
-*   ----------------------------------------
 *   [CREDITS]
 *   Credit to Dr. Lusth (University of Alabama) for support files and functions
 *   used in this project.
